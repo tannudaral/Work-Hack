@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+langchain>=0.1.0
+langchain-openai>=0.0.6
+langchain-community
+python-dotenv
